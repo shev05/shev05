@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Evgeniy
-- 🌱 I’m currently learning in BNTU
 - ⚡ Fun fact: I’m like cookies
 
 <!---
